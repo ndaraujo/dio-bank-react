@@ -31,13 +31,15 @@ O projeto segue uma estrutura de pastas organizada para facilitar a manutenção
 
 Este projeto foi desenvolvido utilizando a metodologia de testes. Para verificar a integridade da lógica de login e dos componentes, utilize os comandos abaixo:
 
-```bash
 # Rodar testes no terminal
-npm test
+    ```bash
+    npm test
+    ```
 
 # Rodar testes com interface visual (Recomendado)
-npx vitest --ui
-
+    ```bash
+    npx vitest --ui
+    ```
 ## 💻 Como Executar o Projeto
 
 1. **Instale as dependências:**
@@ -53,4 +55,4 @@ npx vitest --ui
 ## 👤 Desenvolvedor
 
 **Fernando Lima** 🌐 [devlima.tec.br](https://devlima.tec.br)   
-*Estudante de Análise e Desenvolvimento de Sistemas, Desenvolvedor FullStack, Especialista em Suporte de TI*
+Estudante de Análise e Desenvolvimento de Sistemas, Desenvolvedor FullStack, Especialista em Suporte de TI
