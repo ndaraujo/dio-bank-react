@@ -31,15 +31,16 @@ O projeto segue uma estrutura de pastas organizada para facilitar a manutenção
 
 Este projeto foi desenvolvido utilizando a metodologia de testes. Para verificar a integridade da lógica de login e dos componentes, utilize os comandos abaixo:
 
-# Rodar testes no terminal
-    ```bash
-    npm test
-    ```
+### Rodar testes no terminal
 
-# Rodar testes com interface visual (Recomendado)
-    ```bash
+    npm test
+    
+
+### Rodar testes com interface visual (Recomendado)
+    
     npx vitest --ui
-    ```
+
+
 ## 💻 Como Executar o Projeto
 
 1. **Instale as dependências:**
