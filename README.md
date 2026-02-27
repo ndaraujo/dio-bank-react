@@ -37,3 +37,20 @@ npm test
 
 # Rodar testes com interface visual (Recomendado)
 npx vitest --ui
+
+## 💻 Como Executar o Projeto
+
+1. **Instale as dependências:**
+   ```bash
+   npm install
+
+2. **Inicie o servidor de desenvolvimento:**
+    ```bash
+    npm run dev
+
+3. **Acesse no navegador: http://localhost:5173**
+
+## 👤 Desenvolvedor
+
+**Fernando Lima** 🌐 [devlima.tec.br](https://devlima.tec.br)   
+*Estudante de Análise e Desenvolvimento de Sistemas, Desenvolvedor FullStack, Especialista em Suporte de TI*
