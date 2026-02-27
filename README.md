@@ -23,7 +23,6 @@ O projeto segue uma estrutura de pastas organizada para facilitar a manutenção
 * `src/components`: Componentes visuais isolados (`Header`, `Footer`, `CardLogin`).
 * `src/services`: Regras de negócio e lógica pura separadas da interface.
 * `src/ui`: Snippets e componentes base do Chakra UI.
-* `src/theme`: Definições globais de cores e constantes.
 
 ---
 
